@@ -1,0 +1,29 @@
+{
+  "name": "exercicios-typescript.ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennyJunio/exercicios-typescript.ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dennyJunio/exercicios-typescript.ts/issues"
+  },
+  "homepage": "https://github.com/dennyJunio/exercicios-typescript.ts#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-native": "^0.84.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-native": "^0.72.8"
+  }
+}
